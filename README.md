@@ -14,5 +14,5 @@ kubectl apply -f service.yaml
 ```
 
 **Note** 
-1. Selector for service should be the label app given in the deployment.yaml
+1. Selector for service should be the label app given for pods
 2. name in deployment, service are basically to identify it.
